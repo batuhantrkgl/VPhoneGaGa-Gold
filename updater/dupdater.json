@@ -1,0 +1,13 @@
+{
+"version": "3.6.0(Test)",
+"title": "Update Available!",
+"NewVersion": "3.6.0(Test)",
+"downloadLink": "https://t.me/Goxome",
+"changeLogMessage": "- Bug fixes
+- Performance improvements
+
+A new update is available for the app. Please update for the latest features and improvements.",
+"negativebtn": "Later",
+"positivebtn": "Update Now",
+"changelogTitle": "Changelogs"
+}
